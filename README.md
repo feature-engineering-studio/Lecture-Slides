@@ -3,3 +3,4 @@
 [Lecture 1](https://github.com/feature-engineering-studio/lecture-slides/blob/master/HUDK505317-Lecture%201.pdf)  
 [Lecture 2](https://github.com/feature-engineering-studio/lecture-slides/blob/master/HUDK505317-Lecture%202-Teams.pdf)  
 [Lecture 3](https://github.com/feature-engineering-studio/lecture-slides/blob/master/HUDK505317-Lecture%203-MOUs.pdf)
+[Lecture 5](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK4050-L10-SNA.pdf)
